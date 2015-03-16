@@ -1,0 +1,1 @@
+A simple weather application that shows the weather using a web service
